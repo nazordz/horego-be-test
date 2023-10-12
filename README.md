@@ -4,7 +4,7 @@
 1. php 8.2
 2. mysql 8
 
-## Steps to instal;
+## Steps to install
 1. install dependecies.
 ```bash
 composer install
