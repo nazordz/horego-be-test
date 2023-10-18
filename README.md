@@ -30,3 +30,8 @@ php artisan serve
 ```
 
 6. Import `horego-test.postman_collection.json` to postman (optional) 
+
+
+7. Login to backoffice
+- email: admin@mail.com
+- password: password
